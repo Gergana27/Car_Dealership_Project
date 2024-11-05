@@ -15,14 +15,23 @@ The application will prompt you to enter inputs directly in the console.
 
 ### Sample Input
 RegisterUser p Petar Petrov 123456
+
 RegisterUser pesh0= Petar Petrov 123456
+
 RegisterUser pesh0 Petar Petrov 1234
+
 RegisterUser pesh0 Petar P 123456
+
 RegisterUser pesh0 P Petrov 123456
+
 RegisterUser pesho Petar Petrov 123456
+
 AddVehicle Motorcycle K Z1000 9999 Race
+
 AddVehicle Motorcycle Kawasaki Z1000 -1000 Race
+
 AddVehicle Motorcycle Kawasaki Z1000 9999 N
+
 AddVehicle Car Opel Vectra 5000 -1
 AddVehicle Truck Volvo FH4 11800 200
 AddVehicle Motorcycle Kawasaki Z 9999 Race
