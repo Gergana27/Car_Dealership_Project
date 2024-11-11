@@ -8,7 +8,7 @@ This project implements a vehicle management system that allows users to registe
 #### Commenting System: Users can leave comments on vehicles, enhancing interaction.
 #### Command Processing: Supports various commands for vehicle and user management.
 
-###Running the Application
+### Running the Application
 Run the application using the `Startup` class, which serves as the entry point. The application will prompt you to enter inputs directly in the console.
 
 ### Sample Input
