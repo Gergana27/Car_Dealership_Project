@@ -3,12 +3,13 @@
 This project implements a vehicle management system that allows users to register, log in, and manage different types of vehicles, including Cars, Motorcycles, and Trucks. The application processes user commands for adding, removing, and commenting on vehicles, all while maintaining data integrity through comprehensive validation.
 
 ### Architecture
-User Management: Secure registration and login functionalities to manage user profiles.
-Vehicle Models: Three vehicle types with specific attributes and validation rules.
-Commenting System: Users can leave comments on vehicles, enhancing interaction.
-Command Processing: Supports various commands for vehicle and user management.
-Running the Application
-Run the application using the Startup class, which serves as the entry point. The application will prompt you to enter inputs directly in the console.
+#### User Management: Secure registration and login functionalities to manage user profiles.
+#### Vehicle Models: Three vehicle types with specific attributes and validation rules.
+#### Commenting System: Users can leave comments on vehicles, enhancing interaction.
+#### Command Processing: Supports various commands for vehicle and user management.
+
+###Running the Application
+Run the application using the `Startup` class, which serves as the entry point. The application will prompt you to enter inputs directly in the console.
 
 ### Sample Input
 ```
